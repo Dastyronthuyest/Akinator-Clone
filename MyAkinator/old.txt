@@ -1,0 +1,15 @@
+1:2,11 Is your character a person?-
+2:3,4 Your character villain?-
+3:-,- -Darth Wayder
+4:5,6 Your character woman?-
+5:-,- -Princess Leia
+6:7,8 Your character jedi knight?-
+7:-,- -Obi-Van Kenobi
+8:9,10 Your character hero of MARVEL comics?-
+9:-,- -Iron Man
+
+10:-,- -Batman
+11:12,13 Your character villain?-
+12:-,- -Dormammu
+
+13:-,- -Yoda
