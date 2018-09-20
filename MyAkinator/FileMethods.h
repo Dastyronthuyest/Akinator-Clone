@@ -3,6 +3,7 @@
 #include "InformationStack.h"
 #include "TreeKnot.h"
 
+
 char* IndicateFileName(bool);
 
 FILE* TryToOpenFile(bool);
